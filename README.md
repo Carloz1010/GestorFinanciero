@@ -57,6 +57,11 @@ Clona este repositorio en tu máquina:
 ```bash
 git clone https://github.com/Carloz1010/GestorFinanciero.git
 ```
+Muévete al directorio GestorFinanciero
+
+```bash
+  cd GestorFinanciero
+```
 
 Ejecuta el archivo `controller.py` para iniciar la aplicación:
 
@@ -68,4 +73,3 @@ Ejecuta el archivo `controller.py` para iniciar la aplicación:
 ## Authors
 
 - [@Carloz1010](https://github.com/Carloz1010)
-
