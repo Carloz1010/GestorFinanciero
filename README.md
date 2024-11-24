@@ -40,7 +40,7 @@ El sistema permite a los usuarios:
 
 ## Instalación
 
-Para ejecutar este proyecto, necesitas tener **Python 3.x** instalado en tu máquina. Además, deberás instalar las siguientes bibliotecas:
+Para ejecutar este proyecto, necesitas tener **Python 3.12** instalado en tu máquina. Además, deberás instalar las siguientes bibliotecas:
 
 1. **CustomTkinter**: Para la creación de la interfaz gráfica.
 2. **Matplotlib**: Para la generación de gráficos visuales.
@@ -62,6 +62,7 @@ Muévete al directorio GestorFinanciero
 ```bash
   cd GestorFinanciero
 ```
+Recuerda instalar las dependencias
 
 Ejecuta el archivo `controller.py` para iniciar la aplicación:
 
