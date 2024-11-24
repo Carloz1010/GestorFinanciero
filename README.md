@@ -71,6 +71,6 @@ Ejecuta el archivo `controller.py` para iniciar la aplicación:
 ```
 
 
-## Authors
+## Autor
 
 - [@Carloz1010](https://github.com/Carloz1010)
